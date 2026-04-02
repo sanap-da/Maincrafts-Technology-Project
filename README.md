@@ -1,4 +1,4 @@
-# Data Science/ Internship Project
+# Data Science/Data Analytics Internship Project
 
 # Student Performance & Titanic Survival Analysis
 
