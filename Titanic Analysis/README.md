@@ -1,65 +1,66 @@
-# Project Overview
+# TITANIC ANALYSIS
 
-#### This project is part of my Data Science with Python Internship at Maincrafts Technology. The objective is to analyze the famous Titanic dataset and uncover patterns that influenced passenger survival. The dataset includes passenger details such as age, gender, class, and survival status. Using data analysis and visualization techniques, we explore key factors affecting survival.
+## Project Overview
 
-# Task Objectives
+This project is part of my Data Science with Python Internship at Maincrafts Technology. The objective is to analyze the famous Titanic dataset and uncover patterns that influenced passenger survival. The dataset includes passenger details such as age, gender, class, and survival status. Using data analysis and visualization techniques, we explore key factors affecting survival.
 
-#### Load Titanic dataset from Kaggle
-#### Perform data cleaning (handle missing values like Age)
-#### Analyze survival patterns
-#### Answer key business questions
-#### Create visualizations using Seaborn & Matplotlib
+## Task Objectives
 
-# Key Questions Answered
+* Load Titanic dataset from Kaggle
+* Perform data cleaning (handle missing values like Age)
+* Analyze survival patterns
+* Answer key business questions
+* Create visualizations using Seaborn & Matplotlib
 
-#### Who survived more: males or females?
-#### Did passenger class affect survival chances?
-#### What is the survival rate by age group?
+## Key Questions Answered
 
-#  Data Cleaning
+* Who survived more: males or females?
+* Did passenger class affect survival chances?
+* What is the survival rate by age group?
 
-#### Handled missing values in Age and Embarked
-#### Checked for duplicates and inconsistencies
-#### Converted categorical variables for analysis
+##  Data Cleaning
 
-# Exploratory Data Analysis
+* Handled missing values in Age and Embarked
+* Checked for duplicates and inconsistencies
+* Converted categorical variables for analysis
+
+## Exploratory Data Analysis
 
 #### Univariate Analysis
-#### Distribution of Age
-#### Passenger count by Gender
-#### Passenger count by Class
+* Distribution of Age
+* Passenger count by Gender
+* Passenger count by Class
 
-# Bivariate Analysis
-#### Survival vs Gender
-#### Survival vs Passenger Class
-#### Age vs Survival
+#### Bivariate Analysis
+* Survival vs Gender
+* Survival vs Passenger Class
+* Age vs Survival
 
-# Visualizations
+## Visualizations
 
-### The following visualizations were created:
-#### Bar chart: Survival by Gender
-#### Bar chart: Survival by Class
-#### Histogram: Passenger Age Distribution
+* Bar chart: Survival by Gender
+* Bar chart: Survival by Class
+* Histogram: Passenger Age Distribution
 
-# Key Insights
+## Key Insights
 
-#### Females had a significantly higher survival rate than males
-#### First-class passengers were more likely to survive
-#### Younger passengers showed slightly better survival trends
-#### Socio-economic status (class & fare) influenced survival
+* Females had a significantly higher survival rate than males
+*  First-class passengers were more likely to survive
+* Younger passengers showed slightly better survival trends
+* socio-economic status (class & fare) influenced survival
 
-# Tools & Technologies
+## Tools & Technologies
 
-#### Python
-#### Pandas
-#### NumPy
-#### Seaborn
-#### Matplotlib
-#### Jupyter Notebook
+* Python
+* Pandas
+* NumPy
+* Seaborn
+* Matplotlib
+* Jupyter Notebook
 
-# Learning Outcomes
+## Learning Outcomes
 
-#### Handling real-world messy data
-#### Performing EDA (Exploratory Data Analysis)
-#### Creating data visualizations
-#### Answering business questions using data
+* Handling real-world messy data
+* Performing EDA (Exploratory Data Analysis)
+* Creating data visualizations
+* Answering business questions using data
