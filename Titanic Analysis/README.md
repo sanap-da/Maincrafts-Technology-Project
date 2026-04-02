@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is part of my Data Science with Python Internship at Maincrafts Technology. The objective is to analyze the famous Titanic dataset and uncover patterns that influenced passenger survival. The dataset includes passenger details such as age, gender, class, and survival status. Using data analysis and visualization techniques, we explore key factors affecting survival.
+ This project is part of my Data Science with Python Internship at Maincrafts Technology. The objective is to analyze the famous Titanic dataset and uncover patterns that influenced passenger survival. The dataset includes passenger details such as age, gender, class, and survival status. Using data analysis and visualization techniques, we explore key factors affecting survival.
 
 ## Task Objectives
 
