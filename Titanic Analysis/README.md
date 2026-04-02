@@ -1,4 +1,4 @@
-# TITANIC ANALYSIS
+# Titanic Analysis
 
 ## Project Overview
 
