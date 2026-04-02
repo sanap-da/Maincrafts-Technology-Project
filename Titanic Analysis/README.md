@@ -1,4 +1,5 @@
 # Project Overview
+
 #### This project is part of my Data Science with Python Internship at Maincrafts Technology. The objective is to analyze the famous Titanic dataset and uncover patterns that influenced passenger survival. The dataset includes passenger details such as age, gender, class, and survival status. Using data analysis and visualization techniques, we explore key factors affecting survival.
 
 # Task Objectives
@@ -45,13 +46,20 @@
 #### Females had a significantly higher survival rate than males
 #### First-class passengers were more likely to survive
 #### Younger passengers showed slightly better survival trends
-####Socio-economic status (class & fare) influenced survival
+#### Socio-economic status (class & fare) influenced survival
 
 # Tools & Technologies
 
 #### Python
 #### Pandas
-NumPy
-Seaborn
-Matplotlib
-Jupyter Notebook
+#### NumPy
+#### Seaborn
+#### Matplotlib
+#### Jupyter Notebook
+
+# Learning Outcomes
+
+#### Handling real-world messy data
+#### Performing EDA (Exploratory Data Analysis)
+#### Creating data visualizations
+#### Answering business questions using data
