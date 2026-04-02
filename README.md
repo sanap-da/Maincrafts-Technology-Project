@@ -1,6 +1,6 @@
 # Data Science/Data Analytics Internship Project
 
-# Student Performance & Titanic Survival Analysis
+## Student Performance & Titanic Survival Analysis
 
 ## Overview
 This repository contains projects completed during my Data Science/Analysis with Python Internship at Maincrafts Technology.
